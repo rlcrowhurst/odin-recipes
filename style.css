@@ -1,0 +1,36 @@
+h1 {
+    color: rgb(166,66,66);
+    font-size: 40px;
+}
+
+* {
+    font-family: "Courier", serif;
+}
+
+.name {
+    text-align: center;
+}
+
+#leaves {
+    width: 500px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#brownies {
+    width: 50%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#cookies {
+    width: 50%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
